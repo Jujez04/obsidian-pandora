@@ -1,0 +1,13 @@
+- Sistema SaaS
+- https://www.salesforce.com/it/
+- "Generally available"
+- Migrazione e Update
+- In collaborazione con Anthropic 
+- Multitenancy e ORG
+- Metadatabase
+	- GUID (global unique identifier)
+	- OrgID (org that owns the row)
+	- ObjID (object id)
+- Privat
+- Sicurezza condivisa
+- ethical hacker

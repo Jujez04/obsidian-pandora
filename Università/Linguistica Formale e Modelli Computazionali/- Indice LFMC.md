@@ -1,0 +1,7 @@
+[[Esercitazione 1]]
+[[Esercitazione 2]]
+[[Esercitazione 3]]
+[[Esercitazione 4]]
+[[Esercitazione 5]]
+[[Esercitazione 6]]
+[[Esercitazione 7]]

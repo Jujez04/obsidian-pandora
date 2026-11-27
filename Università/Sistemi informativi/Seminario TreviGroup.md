@@ -1,0 +1,89 @@
+- Azienda che non si occupa strettamente di IT
+- Ha fatto progetti in diversi reparti, principalmente marittimi, opere offshore, ... -> Ingegneria del sottosuolo
+- Sede a Cesena
+- Due divisioni:
+	- soilmec -> parte meccanica, costruzione mezzi,...
+	- Trevi -> Ponti, viadotti e dighe; generalmente adoperano i mezzi usati
+- Hanno un settore IT di Digital Innovation & Technology
+	- **Business Key Users**
+- Catena del valore di Porter
+	- Business e Tecnica come organizzazioni
+	- 
+- Business Management
+	- Flowchart ottenuto confrontandosi con i Key Users
+	- Si fa il budget
+		- Impatto
+		- Velocità di implementazione
+		- Benefici
+		- Costi
+	- Cluster con classi
+		- Mandatori
+		- Consigliato
+		- Facoltativo
+- Iniziative
+	- Software Selection, altrimenti
+	- Partner Selection
+	- Parametri:
+		- Requisiti tecnici
+		- Requisiti economici
+	- Non si procurano niente a scatola chiusa
+- Studio di fattibilità
+	- Piano attività -> GANTT in pluriennale
+	- Team di progetto
+	- Piano in dettaglio -> GANTT in dettaglio
+	- Metodologie e modello di governance
+- Approccio incrementale
+	- Analisi e Design 
+	- Configurazione e integrazione dati -> Prototipazione
+	- Test e UAT
+	- Transition
+- Risultato
+	- SAL di avanzamento
+	- Steering Commitee(esclaletion)
+- Formazione
+	- Train The Trainer (partecipazione dei key user e process owner nelle fasi UAT)
+	- Corner & Knowledge base
+	- L'AI viene usato per semplificare la formazione
+- Go Live
+	- War room aziendale: assemblea per risolvere criticità
+	- Risoluzione anomalie tramite ticketing
+- Post Live
+	- Upgrade di release
+- Sistema non unitario ->  
+	- SAP S/4 HANA
+	- OracleHCM
+	- MS Dynamics -> CRM
+
+# AI Innovation AIBOV
+- Si parla di più di gare di appalto
+- Come seguire più progetti che possono essere seguiti da Trevi? -> AIBOV
+- LLM in RAG
+- Backtesting dei progetti già completati per allenamento sulla rilevanza
+- Announcement -> *AI filtering* -> Human Review -> Planning -> Tender
+- Vantaggi:
+	- Tempestività
+	- Efficienza
+	- Dinamicità: Beam-steering
+	- Integrazione (in CRM)
+- Next:
+	- Geologia di interesse
+	- Situational awareness
+- DDT: documenti di consegna
+
+
+# HR
+- To be:
+	- Local Payroll System
+	- Global Talent Suite
+- MDM:
+	- Analisi dei processi HR -> Dati a disposizione
+	- Software&System Integratior selection -> Portare i partner in shortlist
+- RTO (Recovery Time Objective) e RPO(Recovery Point Objective): nella terminologia della Disaster Recovery, indicano il tempo di recupero in caso di guasto e da che checkpoint si riparte
+- Era importante nella Definizione delle priorità ed era un Early Win
+- Si è passato alla catena del valore dell'azienda
+	- Ridisegno dell'organizzazione
+	- Definizione del rollout
+- Il problema è che il software che utilizzano aveva degli aggiornamenti trimestrali -> Come affrontarli? -> Rivisita dei processi per capire quali cambiamenti applicare al business
+- Best of breed
+- Hub: Oracle
+- Problema di licenze e di lock-in con Oracle
