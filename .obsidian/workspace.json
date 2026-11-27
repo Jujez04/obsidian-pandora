@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Università/Sistemi informativi/Integrazione di basi di dati.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integrazione di basi di dati"
+              "title": "README"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Università/Sistemi informativi/Integrazione di basi di dati.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Università/Sistemi informativi/Integrazione di basi di dati.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Università/Sistemi informativi/Integrazione di basi di dati.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -193,6 +193,7 @@
   },
   "active": "a65034c74da5abbf",
   "lastOpenFiles": [
+    "Università/Sistemi informativi/Integrazione di basi di dati.md",
     "Università/Sistemi informativi/- Indice Sistemi informativi.md",
     "Università/Sistemi informativi/Big Data.md",
     "Università/Linguistica Formale e Modelli Computazionali/- Indice LFMC.md"
